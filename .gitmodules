@@ -1,6 +1,12 @@
 # This file is used to define the submodules for the project
 # Each submodule is defined by its path and URL
 
+
+# asm language submodule
+[submodule "assembly"]
+	path = assembly
+	url = https://github.com/LoreDN/code-asm
+
 # C language submodule
 [submodule "C"]
 	path = C

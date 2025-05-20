@@ -11,3 +11,8 @@
 [submodule "C"]
 	path = C
 	url = https://github.com/LoreDN/code-C
+
+# C++ language submodule
+[submodule "C++"]
+	path = C++
+	url = /C++
